@@ -21,7 +21,8 @@ def q2():
   if name == "Kalisz":
     print("Teacher")
   if name != "Kalisz":
-  print("student")
+    print("student")
+    
 
 #Do not alter the following code
 #Comment out the following code when running your tests
