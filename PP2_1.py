@@ -1,4 +1,9 @@
-
+'''
+    Lesson: If statments
+    Author: Joe Yang
+    Date Created: Oct 9, 2024
+    Date Last Modified: Oct 9, 2024
+'''
 
 def q1(): 
   #Write Assignment code here
